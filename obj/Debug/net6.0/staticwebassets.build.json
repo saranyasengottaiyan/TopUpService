@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fYYWGp54vzt4RlDEYd2MKyz8Gkcv8lMqv+m8jO5qZNI=",
+  "Source": "TopUpService",
+  "BasePath": "_content/TopUpService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
